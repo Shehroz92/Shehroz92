@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/android_studio/images/7e1c4157-703e-4a97-a776-96d407fc6580.html" width="40" height="40"/> </a> 
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/index.html" width="40" height="40"/> </a> 
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   
