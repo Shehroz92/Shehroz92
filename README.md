@@ -21,15 +21,13 @@
 <p align="left">
   
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/index.html" width="40" height="40"/> </a> 
+  <img src="https://upload.vectorlogo.zone/logos/android_studio/images/7e1c4157-703e-4a97-a776-96d407fc6580.svg" width="40" height="40"/> </a> 
   
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-  <img  src = "https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <img  src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
   
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-  
-
-
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="chartjs" width="40" height="40"/> </a>
+ 
  </p>
  
