@@ -22,7 +22,7 @@
   
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/index.html" width="40" height="40"/> </a> 
   
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img  src = "https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
   
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
   
