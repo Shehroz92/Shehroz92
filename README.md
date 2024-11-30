@@ -19,15 +19,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.vectorlogo.zone/logos/android_studio/images/7e1c4157-703e-4a97-a776-96d407fc6580.svg" width="40" height="40"/> </a> &nbsp&nbsp
-  
+  <img src="https://upload.vectorlogo.zone/logos/android_studio/images/7e1c4157-703e-4a97-a776-96d407fc6580.svg" width="40" height="40"/> </a> &nbsp 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img  src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
-  &nbsp&nbsp
+  &nbsp
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="chartjs" width="40" height="40"/> </a>
- 
  </p>
+
+<h4 align="left">Support:</h4>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shehroz92&show_icons=true&locale=en&layout=compact" alt="Shehroz92" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shehroz92&show_icons=true&locale=en" alt="Shehroz92" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shehroz92&" alt="Shehroz92" /></p>
+
+
  
