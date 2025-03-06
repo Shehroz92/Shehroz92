@@ -1,5 +1,5 @@
 ![logo](https://github.com/Shehroz92/Shehroz92/blob/main/Linked%20Banner.jpg.png)
- <h3 align="center">Software Engineer & Android Developer & Kotlin Enthusiast  </h3>
+ <h3 align="center">Software Engineer || Android Developer || Kotlin Enthusiast  </h3>
  
 
 
